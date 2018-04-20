@@ -1,0 +1,25 @@
+{
+  "name": "simple-file-uploader",
+  "version": "1.0.1",
+  "description": "Simple image uploader demo using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.13.4",
+    "express-validator": "^5.1.2",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.2.1",
+    "moment": "^2.22.1",
+    "mongoose": "^4.11.13",
+    "multer": "^1.1.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.1.0"
+  }
+}
